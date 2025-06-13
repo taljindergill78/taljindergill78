@@ -45,12 +45,6 @@ Visual storytelling project showcasing socio-economic patterns using Python-base
 
 ---
 
-### 📈 GitHub Stats
-
-![Taljinder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taljindergill78&show_icons=true&theme=default)
-
----
-
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taljinder-singh78/)
