@@ -49,7 +49,8 @@ Visual storytelling project showcasing socio-economic patterns using Python-base
 
 ### 📬 How to Reach Me
 
-I’m always open to discussing new opportunities, collaborating on data projects, or just connecting with like-minded professionals.
+Whether you're working on something exciting in Machine Learning, exploring real-world AI applications, or just curious about data-driven problem solving — I’d love to connect.  
+I'm always open to conversations around data, research, or collaboration, especially where tech meets impact.
 
 📧 **Email**: [taljindergill78@gmail.com](mailto:taljindergill78@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/taljinder-singh78](https://www.linkedin.com/in/taljinder-singh78/)  
