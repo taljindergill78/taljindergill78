@@ -8,13 +8,13 @@
 
 ### 💡 About Me
 
-Hi, I'm Taljinder — a data scientist-in-training with a passion for turning real-world complexity into structured, actionable insights.
+I’m a data scientist in training with a passion for turning real-world complexity into structured, actionable insights.
 
-My journey started at IIT Roorkee, where I built a strong foundation in analytical thinking. Since then, I’ve worked on pricing models, time series forecasting, and financial analytics at the enterprise level, helping businesses make smarter, data-backed decisions. 
+My journey began at IIT Roorkee, where I developed a strong foundation in analytical thinking. Since then, I’ve worked on pricing models, time series forecasting, and financial analytics at the enterprise level. These experiences taught me how to use data to solve high-stakes business problems.
 
-Now, as a master’s student at Arizona State University, I’m expanding my toolkit in machine learning, big data, and personalized AI systems. Whether it's optimizing revenue strategies or fine-tuning LLMs, I enjoy solving high-impact problems through thoughtful modeling and clean execution.
+Currently, I’m pursuing a master’s degree at Arizona State University. My focus is on machine learning, big data systems, and building personalized AI agents that adapt to human behavior. I enjoy solving problems that blend statistical modeling, practical intuition, and clean execution.
 
-If it involves messy data, clever math, and smart storytelling — count me in.
+If it involves messy data, thoughtful modeling, and clear storytelling, I’m all in.
 
 ---
 
