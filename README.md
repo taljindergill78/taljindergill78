@@ -29,7 +29,7 @@ I’m passionate about using **data-driven insights** to build intelligent syste
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects (Pinned on Profile)
 
 #### 🔬 [AI Recipe Generator](https://github.com/taljindergill78/AI-Indian-Recipe-Generator)
 Fine-tuned LLMs (LLAMA2, LLAMA3.2, Mistral-7B) for personalized recipe generation using QLoRA. Achieved 96% precision and BLEU 0.52.
@@ -40,17 +40,13 @@ Analyzed Yelp data to uncover trends in restaurant performance and user behavior
 #### 📚 [Book Recommender System](https://github.com/taljindergill78/Book-Recommender-System)
 Built a collaborative filtering recommendation engine on the Book-Crossing dataset, leveraging Spark MLlib.
 
-#### 📊 [Data Visualization (IFT 533)](https://github.com/taljindergill78/Data-Visualisation)
-Visual storytelling project showcasing socio-economic patterns using Python-based plots.
-
 ---
 
 ---
 
 ### 📬 How to Reach Me
 
-Whether you're working on something exciting in Machine Learning, exploring real-world AI applications, or just curious about data-driven problem solving — I’d love to connect.  
-I'm always open to conversations around data, research, or collaboration, especially where tech meets impact.
+If you're working in Machine Learning, AI, or data-driven product development, I’m always up for meaningful conversations, idea exchanges, or research collaborations. I’m especially passionate about real-world applications of ML in forecasting, pricing, and personalization. Let’s connect and build something impactful together.
 
 📧 **Email**: [taljindergill78@gmail.com](mailto:taljindergill78@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/taljinder-singh78](https://www.linkedin.com/in/taljinder-singh78/)  
