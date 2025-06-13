@@ -55,8 +55,7 @@ Analyzed Yelp data to uncover trends in restaurant performance and user behavior
 
 ### 📬 How to Reach Me
 
-If you're working in Machine Learning, AI, or data-driven product development, I’m always up for meaningful conversations, idea exchanges, or research collaborations.  
-I’m especially passionate about real-world applications of ML in forecasting, pricing, and personalization. Let’s connect and build something impactful together.
+If you're working in Machine Learning, AI, or data-driven product development, I’m always up for meaningful conversations, idea exchanges, or research collaborations. I’m especially passionate about real-world applications of ML in forecasting, pricing, and personalization. Let’s connect and build something impactful together.
 
 📧 **Email**: [taljindergill78@gmail.com](mailto:taljindergill78@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/taljinder-singh78](https://www.linkedin.com/in/taljinder-singh78/)  
