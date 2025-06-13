@@ -34,19 +34,27 @@ I’m passionate about using **data-driven insights** to build intelligent syste
 #### 🔬 [AI Recipe Generator](https://github.com/taljindergill78/AI-Indian-Recipe-Generator)
 Fine-tuned LLMs (LLAMA2, LLAMA3.2, Mistral-7B) for personalized recipe generation using QLoRA. Achieved 96% precision and BLEU 0.52.
 
-#### 🏙 [Arizona Business Insights](https://github.com/taljindergill78/Arizona-Business-Insights)
-Analyzed Yelp data to uncover trends in restaurant performance and user behavior using Spark SQL.
-
 #### 📚 [Book Recommender System](https://github.com/taljindergill78/Book-Recommender-System)
 Built a collaborative filtering recommendation engine on the Book-Crossing dataset, leveraging Spark MLlib.
 
+#### 🏙 [Arizona Business Insights](https://github.com/taljindergill78/yelp-arizona-analysis)
+Analyzed Yelp data to uncover trends in restaurant performance and user behavior using Spark SQL.
+
 ---
+
+### 🎯 Currently Exploring
+
+- 🧠 Researching Personalized AI Agents using LLMs (ASU – under Prof. Ming Zhao)
+- 🧮 Deepening my understanding of Machine Learning via applied projects and Udemy coursework
+- ☁️ Learning cloud deployment tools (AWS/GCP) to scale ML models
+- 🛠️ Enhancing Git and GitHub workflows for collaborative development
 
 ---
 
 ### 📬 How to Reach Me
 
-If you're working in Machine Learning, AI, or data-driven product development, I’m always up for meaningful conversations, idea exchanges, or research collaborations. I’m especially passionate about real-world applications of ML in forecasting, pricing, and personalization. Let’s connect and build something impactful together.
+If you're working in Machine Learning, AI, or data-driven product development — I’m always up for meaningful conversations, idea exchanges, or research collaborations.  
+I’m especially passionate about real-world applications of ML in forecasting, pricing, and personalization. Let’s connect and build something impactful together.
 
 📧 **Email**: [taljindergill78@gmail.com](mailto:taljindergill78@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/taljinder-singh78](https://www.linkedin.com/in/taljinder-singh78/)  
