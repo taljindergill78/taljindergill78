@@ -7,12 +7,14 @@
 ---
 
 ### 💡 About Me
-I'm a Data Science graduate student with 1.5+ years of experience in:
-- 🔮 **Time Series Forecasting**
-- 💰 **Pricing and Revenue Optimization**
-- 📊 **Data Visualization and Business Intelligence**
 
-I’m passionate about using **data-driven insights** to build intelligent systems that impact business and society.
+Hi, I'm Taljinder — a data scientist-in-training with a passion for turning real-world complexity into structured, actionable insights.
+
+My journey started at IIT Roorkee, where I built a strong foundation in analytical thinking. Since then, I’ve worked on pricing models, time series forecasting, and financial analytics at the enterprise level, helping businesses make smarter, data-backed decisions. 
+
+Now, as a master’s student at Arizona State University, I’m expanding my toolkit in machine learning, big data, and personalized AI systems. Whether it's optimizing revenue strategies or fine-tuning LLMs, I enjoy solving high-impact problems through thoughtful modeling and clean execution.
+
+If it involves messy data, clever math, and smart storytelling — count me in.
 
 ---
 
@@ -53,7 +55,7 @@ Analyzed Yelp data to uncover trends in restaurant performance and user behavior
 
 ### 📬 How to Reach Me
 
-If you're working in Machine Learning, AI, or data-driven product development — I’m always up for meaningful conversations, idea exchanges, or research collaborations.  
+If you're working in Machine Learning, AI, or data-driven product development, I’m always up for meaningful conversations, idea exchanges, or research collaborations.  
 I’m especially passionate about real-world applications of ML in forecasting, pricing, and personalization. Let’s connect and build something impactful together.
 
 📧 **Email**: [taljindergill78@gmail.com](mailto:taljindergill78@gmail.com)  
