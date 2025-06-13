@@ -45,6 +45,15 @@ Visual storytelling project showcasing socio-economic patterns using Python-base
 
 ---
 
-### 📫 Connect With Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taljinder-singh78/)
+### 📬 How to Reach Me
+
+I’m always open to discussing new opportunities, collaborating on data projects, or just connecting with like-minded professionals.
+
+📧 **Email**: [taljindergill78@gmail.com](mailto:taljindergill78@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/taljinder-singh78](https://www.linkedin.com/in/taljinder-singh78/)  
+💻 **GitHub**: [github.com/taljindergill78](https://github.com/taljindergill78)
+
+[![LinkedIn Badge](https://img.shields.io/badge/-Taljinder%20Singh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taljinder-singh78/)](https://www.linkedin.com/in/taljinder-singh78/)
+[![Gmail Badge](https://img.shields.io/badge/-taljindergill78@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:taljindergill78@gmail.com)](mailto:taljindergill78@gmail.com)
