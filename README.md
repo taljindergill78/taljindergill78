@@ -18,16 +18,29 @@ If it involves messy data, thoughtful modeling, and clear storytelling, I’m al
 
 ---
 
-### 🛠 Tech Stack
+## 🛠️ Tech Stack
 
+**Programming & Databases**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+**Data & Machine Learning**  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+
+**NLP & LLM Systems**  
+![NLP](https://img.shields.io/badge/-NLP-6A5ACD?style=flat)
+![RAG](https://img.shields.io/badge/-RAG-0A66C2?style=flat)
+![Vector Databases](https://img.shields.io/badge/-Vector%20Search-8A2BE2?style=flat)
+![Multi--Agent Systems](https://img.shields.io/badge/-Multi--Agent%20Systems-2F4F4F?style=flat)
+
+**Tools & Analytics**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 ---
 
