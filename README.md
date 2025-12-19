@@ -45,6 +45,9 @@ Analyzed Yelp data to uncover trends in restaurant performance and user behavior
 #### 🧠 [Disaster Tweets Classification (NLP)](https://github.com/taljindergill78/disaster-tweets-classification)
 Developed an NLP-based text classification pipeline to identify real-world disaster tweets using TF-IDF features and linear models, with a strong focus on evaluation rigor.
 
+#### 🗄️ [US Weather and Air Quality Database](https://github.com/taljindergill78/us-weather-aqi-database)
+Built a star schema data warehouse for analyzing US weather patterns and air quality indices using SQL Server. Features 7 tables, views, stored procedures, UDFs, cursors, and a complete audit trail system with triggers. IFT 530 Advanced Database Management Systems Final Project.
+
 ---
 
 ### 🎯 Currently Exploring
