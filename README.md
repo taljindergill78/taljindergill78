@@ -42,6 +42,9 @@ Built a collaborative filtering recommendation engine on the Book-Crossing datas
 #### 🏙 [Arizona Business Insights](https://github.com/taljindergill78/yelp-arizona-analysis)
 Analyzed Yelp data to uncover trends in restaurant performance and user behavior using Spark SQL.
 
+#### 🧠 [Disaster Tweets Classification (NLP)](https://github.com/taljindergill78/disaster-tweets-classification)
+Developed an NLP-based text classification pipeline to identify real-world disaster tweets using TF-IDF features and linear models, with a strong focus on evaluation rigor.
+
 ---
 
 ### 🎯 Currently Exploring
