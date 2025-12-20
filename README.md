@@ -2,7 +2,7 @@
 
 🎓 Master's Student | Arizona State University (Class of 2026)  
 📈 Ex-Data Analyst | IIT Roorkee Alumnus | ML & Forecasting Enthusiast  
-📍 Tempe, Arizona | [LinkedIn](https://www.linkedin.com/in/taljinder-singh78/) | [GitHub](https://github.com/taljindergill78)
+📍 Tempe, Arizona | [LinkedIn](https://www.linkedin.com/in/taljinder-singh78/) | [GitHub](https://github.com/taljindergill78) | [Portfolio](https://www.taljindersingh.com/)
 
 ---
 
