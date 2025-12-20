@@ -2,10 +2,12 @@
 
 🎓 Master's Student | Arizona State University (Class of 2026)  
 📈 Ex-Data Analyst | IIT Roorkee Alumnus | ML & Forecasting Enthusiast  
-📍 Tempe, Arizona · 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taljinder-singh78/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/taljindergill78)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://www.taljindersingh.com/)
+<p>
+  📍 Tempe, Arizona&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/taljinder-singh78/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="22"></a>&nbsp;
+  <a href="https://github.com/taljindergill78"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="22"></a>&nbsp;
+  <a href="https://www.taljindersingh.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white" height="22"></a>
+</p>
 
 ---
 
