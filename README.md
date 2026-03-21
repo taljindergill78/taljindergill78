@@ -113,8 +113,8 @@ At **Arizona State University**, my focus is on machine learning, big data syste
 
 <!-- Row 1: Main stats + Top Languages -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taljindergill78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taljindergill78&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-eight-blue-96.vercel.app/api?username=taljindergill78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-blue-96.vercel.app/api/top-langs/?username=taljindergill78&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
 <!-- Row 2: Streak Stats -->
