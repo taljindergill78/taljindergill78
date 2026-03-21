@@ -58,57 +58,55 @@ At **Arizona State University**, my focus is on machine learning, big data syste
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/taljindergill78/retail-forecasting">🛒 Retail Forecasting MLOps</a></h3>
+      <p>End-to-end retail sales forecasting pipeline with DVC, MLflow, AWS (RDS, Glue, SageMaker, EKS), Docker, and CI/CD. Tree-based models: LightGBM, XGBoost, CatBoost.</p>
+      <p><code>MLOps</code> <code>AWS</code> <code>Docker</code> <code>MLflow</code> <code>LightGBM</code></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/taljindergill78/AI-Indian-Recipe-Generator">🔬 AI Recipe Generator</a></h3>
+      <p>Fine-tuned LLMs (LLAMA2, LLAMA3.2, Mistral-7B) for personalized recipe generation using QLoRA. Achieved <b>96% precision</b> and <b>BLEU 0.52</b>.</p>
+      <p><code>LLM Fine-tuning</code> <code>QLoRA</code> <code>HuggingFace</code> <code>Transformers</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/taljindergill78/osint-investigation-swarm">🕵️ OSINT Investigation Swarm</a></h3>
+      <p>Capstone project — end-to-end data science and machine learning system for open-source intelligence investigation and analysis.</p>
+      <p><code>Capstone</code> <code>Python</code> <code>ML</code> <code>Data Science</code></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/SankrityaT/Rewind">🧠 Rewind — AI Memory Assistant</a></h3>
+      <p>AI-powered memory assistant built during a hackathon. Features retention tracking, semantic memory, and proactive learning insights.</p>
+      <p><code>Hackathon</code> <code>TypeScript</code> <code>AI Agents</code> <code>LLM</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/taljindergill78/disaster-tweets-classification">🌪️ Disaster Tweets Classification</a></h3>
+      <p>NLP-based text classification using TF-IDF, linear models, and ensemble techniques — with systematic evaluation to identify real disaster tweets.</p>
+      <p><code>NLP</code> <code>Scikit-learn</code> <code>TF-IDF</code> <code>Ensemble</code></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/taljindergill78/yelp-arizona-analysis">🏙️ Yelp Arizona Analysis</a></h3>
+      <p>Analyzed 150K+ Yelp reviews to extract insights about Arizona restaurants and user behavior using Apache Spark and PySpark for distributed processing.</p>
+      <p><code>Big Data</code> <code>PySpark</code> <code>Spark</code> <code>Data Engineering</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=taljindergill78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taljindergill78&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taljindergill78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taljindergill78&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=taljindergill78&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Taljinder's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=taljindergill78&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-#### 🔬 [AI Recipe Generator](https://github.com/taljindergill78)
-Fine-tuned LLMs (LLAMA2, LLAMA3.2, Mistral-7B) for personalized recipe generation using QLoRA. Achieved **96% precision** and **BLEU 0.52**.
-
-#### 🛒 [Retail Forecasting MLOps](https://github.com/taljindergill78/retail-forecasting)
-End-to-end retail sales forecasting pipeline with DVC, MLflow tracking & registry, AWS (RDS, Glue, SageMaker, EKS), Docker, and CI/CD. Tree-based models: LightGBM, XGBoost, CatBoost.
-
-#### 🏙️ [Yelp Arizona Analysis](https://github.com/taljindergill78/yelp-arizona-analysis)
-Analyzed 150K+ Yelp reviews to extract insights about Arizona restaurant businesses and user behavior using Apache Spark and PySpark for distributed data processing.
-
-#### 🌪️ [Disaster Tweets Classification](https://github.com/taljindergill78/disaster-tweets-classification)
-NLP-based text classification pipeline using TF-IDF features, linear models, and ensemble techniques — with systematic evaluation and performance tuning to identify real disaster tweets.
-
-#### 📚 [Book Recommender System](https://github.com/taljindergill78/book-recommender-system)
-Personalized book recommendations using collaborative filtering on the Book-Crossing dataset via Spark MLlib.
-
-#### 🗄️ [US Weather & Air Quality Database](https://github.com/taljindergill78/us-weather-aqi-database)
-Star schema data warehouse for US weather and air quality analysis in SQL Server — featuring views, stored procedures, UDFs, cursors, and a full audit trail system with triggers.
-
----
-
-## 🎯 Currently Exploring
-
-- 🧠 Researching **Personalized AI Agents** using LLMs at ASU (under Prof. Ming Zhao)
-- ☁️ Scaling ML models to production with **AWS / GCP**
-- 🔁 **RAG pipelines** and multi-agent orchestration with LangChain
-- 📈 Deepening applied ML through projects and research
 
 ---
 
