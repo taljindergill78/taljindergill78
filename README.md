@@ -81,26 +81,25 @@ At **Arizona State University**, my focus is on machine learning, big data syste
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=taljindergill78&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| 🔬 [AI Recipe Generator](https://github.com/taljindergill78) | Fine-tuned LLAMA2, LLAMA3.2, Mistral-7B for personalized recipe generation using QLoRA. **96% precision · BLEU 0.52** | Python, HuggingFace, QLoRA |
-| 🛒 [Retail Forecasting MLOps](https://github.com/taljindergill78/retail-forecasting) | End-to-end retail sales forecasting with DVC pipelines, MLflow, SageMaker, EKS & CI/CD. LightGBM / XGBoost / CatBoost | Python, AWS, Docker, MLflow |
-| 🏙️ [Yelp Arizona Analysis](https://github.com/taljindergill78/yelp-arizona-analysis) | Analyzed 150K+ Yelp reviews for AZ restaurants using distributed Spark SQL processing | PySpark, Jupyter, SQL |
-| 🌪️ [Disaster Tweets NLP](https://github.com/taljindergill78/disaster-tweets-classification) | TF-IDF + ensemble NLP pipeline to classify real disaster tweets. Systematic evaluation & tuning | Python, Scikit-learn, NLP |
-| 📚 [Book Recommender System](https://github.com/taljindergill78/book-recommender-system) | Collaborative filtering on the Book-Crossing dataset via Spark MLlib | PySpark, MLlib |
-| 🗄️ [US Weather & AQ Database](https://github.com/taljindergill78/us-weather-aqi-database) | Star schema data warehouse with views, stored procs, UDFs, cursors & audit triggers | SQL Server, T-SQL |
+#### 🔬 [AI Recipe Generator](https://github.com/taljindergill78)
+Fine-tuned LLMs (LLAMA2, LLAMA3.2, Mistral-7B) for personalized recipe generation using QLoRA. Achieved **96% precision** and **BLEU 0.52**.
+
+#### 🛒 [Retail Forecasting MLOps](https://github.com/taljindergill78/retail-forecasting)
+End-to-end retail sales forecasting pipeline with DVC, MLflow tracking & registry, AWS (RDS, Glue, SageMaker, EKS), Docker, and CI/CD. Tree-based models: LightGBM, XGBoost, CatBoost.
+
+#### 🏙️ [Yelp Arizona Analysis](https://github.com/taljindergill78/yelp-arizona-analysis)
+Analyzed 150K+ Yelp reviews to extract insights about Arizona restaurant businesses and user behavior using Apache Spark and PySpark for distributed data processing.
+
+#### 🌪️ [Disaster Tweets Classification](https://github.com/taljindergill78/disaster-tweets-classification)
+NLP-based text classification pipeline using TF-IDF features, linear models, and ensemble techniques — with systematic evaluation and performance tuning to identify real disaster tweets.
+
+#### 📚 [Book Recommender System](https://github.com/taljindergill78/book-recommender-system)
+Personalized book recommendations using collaborative filtering on the Book-Crossing dataset via Spark MLlib.
+
+#### 🗄️ [US Weather & Air Quality Database](https://github.com/taljindergill78/us-weather-aqi-database)
+Star schema data warehouse for US weather and air quality analysis in SQL Server — featuring views, stored procedures, UDFs, cursors, and a full audit trail system with triggers.
 
 ---
 
