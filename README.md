@@ -101,11 +101,49 @@ At **Arizona State University**, my focus is on machine learning, big data syste
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=taljindergill78&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
+<!-- Row 1: Main stats + Top Languages -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taljindergill78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taljindergill78&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</div>
+
+<!-- Row 2: Streak Stats -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=taljindergill78&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<!-- Row 3: Profile Summary Cards — Repos per Language + Most Commit Language + Productive Time -->
+<div align="center">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taljindergill78&theme=tokyonight"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taljindergill78&theme=tokyonight"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taljindergill78&theme=tokyonight&utcOffset=-7"/>
+</div>
+
+<!-- Row 4: Full Profile Details Card -->
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taljindergill78&theme=tokyonight" alt="Profile Details"/>
+</div>
+
+---
+
+## 🐍 Watch the Snake Eat My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/taljindergill78/taljindergill78/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/taljindergill78/taljindergill78/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/taljindergill78/taljindergill78/blob/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
