@@ -18,7 +18,7 @@
 
 I'm a data scientist in training with a passion for turning real-world complexity into structured, actionable insights.
 
-My journey began at **IIT Roorkee**, where I built a strong foundation in analytical thinking. Since then, I've worked on pricing models, time series forecasting, and financial analytics at the enterprise level — learning how to use data to solve high-stakes business problems.
+My journey began at **IIT Roorkee**, where I built a strong foundation in analytical thinking. Since then, I've worked on pricing models, time series forecasting, and financial analytics at the enterprise level, learning how to use data to solve high-stakes business problems.
 
 At **Arizona State University**, my focus is on machine learning, big data systems, and building personalized AI agents that adapt to human behavior. I enjoy work that blends statistical modeling, practical intuition, and clean execution.
 
