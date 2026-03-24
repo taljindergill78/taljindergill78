@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Taljinder Singh
 
 **Master's Student in Data Science @ Arizona State University (Class of 2026)**
-🧠 Machine Learning · NLP · GenAI Systems · Ex-Data Analyst · IIT Roorkee
+🧠 Machine Learning · NLP · GenAI Systems · IIT Roorkee
 📍 Tempe, Arizona · 🔎 Actively seeking Full-Time DS / ML / AI roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taljinder-singh78)
