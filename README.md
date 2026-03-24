@@ -101,14 +101,6 @@ At **Arizona State University**, my focus is on machine learning, big data syste
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=taljindergill78&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <!-- Row 1: Main stats + Top Languages -->
